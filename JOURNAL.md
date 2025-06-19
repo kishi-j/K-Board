@@ -15,4 +15,11 @@ I created the schematic for the base parts: the MCU, the switches and the diodes
 
 ![image](https://github.com/user-attachments/assets/979ae3a5-49a7-473f-ab2c-b8a24681c032)
 
-**Total time spend: 1.5hrs**
+**Total time spent: 1.5hrs**
+
+# June 17th: Completed Schematic!
+I finished the schematic (for now!)
+
+![image](https://github.com/user-attachments/assets/f0798686-4fe5-4447-8326-96139cb0b867)
+
+**Total time spent: 1.5 hours**
