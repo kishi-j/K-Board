@@ -11,23 +11,32 @@ I decided what features I wanted on my keyboard and tried to find the exact part
 **Total time spent: 3 hours**
 
 # June 17th: Starting the Schematic
-I created the schematic for the base parts: the MCU, the switches and the diodes. I still need to add the OLED display, rotary encoder and LEDS. Although I initially wired it in a matrix that mirrors how the actual 88 keys would look on the keyboard, I found out that I could instead use any matrix, so I started again using a 10x9 matrix this time so I could save IO pins for the rest of the components. 
+I started working on the schematic after working out how to link the correct libraries.
+
+**Total time spent: 2 hours**
+
+# June 20th: Continued the Schematic
+I completed the schematic for the base parts: the MCU, the switches and the diodes. I still need to add the OLED display, rotary encoder and LEDS. Although I initially wired it in a matrix that mirrors how the actual 88 keys would look on the keyboard, I found out that I could instead use any matrix, so I started again using a 10x9 matrix this time so I could save IO pins for the rest of the components. 
 
 ![image](https://github.com/user-attachments/assets/979ae3a5-49a7-473f-ab2c-b8a24681c032)
 
 **Total time spent: 2.5 hours**
 
-# June 19th: Completed Schematic!
+# June 22nd: Completed Schematic!
 I finished the schematic (for now!)
 
 ![image](https://github.com/user-attachments/assets/f0798686-4fe5-4447-8326-96139cb0b867)
 
 **Total time spent: 1.5 hours**
 
+# June 24th: Started the PCB
+Placed all the components according the layout of my keyboard.
+**Total time spent: 3 hours**
+
 # June 25th: Tried Routing the PCB...
 Routed the PCB 4 times and it is still terrible. Will try again.
 
-**Total time spent: 3 hours**
+**Total time spent: 2.5 hours**
 
 # June 26th: Progress on the PCB
 I think I've routed the PCB decently now though there are over 235 errors I need to deal with somehow.
@@ -46,4 +55,4 @@ I watched a ton of youtube videos on Fusion 360 and started following a tutorial
 
 ![image](https://github.com/user-attachments/assets/0cb80e3f-f623-48cd-afde-8531f51a3c00)
 
-**Total time spend: 5 hours**
+**Total time spend: 4 hours**
