@@ -56,3 +56,11 @@ I watched a ton of youtube videos on Fusion 360 and started following a tutorial
 ![image](https://github.com/user-attachments/assets/0cb80e3f-f623-48cd-afde-8531f51a3c00)
 
 **Total time spend: 4 hours**
+
+
+# July 1st: Completed the Plate
+I added stabilizers and imported 3d models to the PCB. I then exported the PCB into Fusion and completed the plate. I also added stitching vias to the PCB.
+
+![image](https://github.com/user-attachments/assets/5afcfb5c-7208-421c-90b4-7acc53a6bbf7)
+
+**Total time spend: 4 hours**
