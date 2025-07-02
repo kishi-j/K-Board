@@ -31,6 +31,7 @@ I finished the schematic (for now!)
 
 # June 24th: Started the PCB
 Placed all the components according the layout of my keyboard.
+
 **Total time spent: 3 hours**
 
 # June 25th: Tried Routing the PCB...
