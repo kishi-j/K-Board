@@ -63,4 +63,4 @@ I added stabilizers and imported 3d models to the PCB. I then exported the PCB i
 
 ![image](https://github.com/user-attachments/assets/5afcfb5c-7208-421c-90b4-7acc53a6bbf7)
 
-**Total time spend: 4 hours**
+**Total time spend: 3.5 hours**
