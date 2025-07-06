@@ -49,7 +49,7 @@ I've got rid of all the errors and it seems to be ok for now. I still need to fi
 
 ![image](https://github.com/user-attachments/assets/f3088e06-bd45-4857-a223-2714901143b8)
 
-**Total time spent: 3 hours**
+**Total time spent: 5 hours**
 
 # June 28th: Starting the Case
 I watched a ton of youtube videos on Fusion 360 and started following a tutorial on desining a case. Still need to decide what mounting style to go with.
@@ -65,3 +65,10 @@ I added stabilizers and imported 3d models to the PCB. I then exported the PCB i
 ![image](https://github.com/user-attachments/assets/5afcfb5c-7208-421c-90b4-7acc53a6bbf7)
 
 **Total time spend: 3.5 hours**
+
+# July 5th: Continued the Case
+I worked on the case for ages today and it's almost complete. I still need to work out how to split the case into two so it is the right size for 3d printing and add holes for screws. 
+
+![image](https://github.com/user-attachments/assets/1b0ee6d3-0821-47d1-be91-ed6074c3a0ba)
+
+**Total time spent: 6 hours**
