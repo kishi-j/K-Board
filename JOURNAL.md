@@ -72,3 +72,10 @@ I worked on the case for ages today and it's almost complete. I still need to wo
 ![image](https://github.com/user-attachments/assets/1b0ee6d3-0821-47d1-be91-ed6074c3a0ba)
 
 **Total time spent: 6 hours**
+
+# July 8th: Finished Case
+I added the screw holes and split the case.
+
+![image](https://github.com/user-attachments/assets/fe6d4b5f-38ff-42ca-a14f-dac5ff6bad34)
+
+**Total time spent: 5 hours**
